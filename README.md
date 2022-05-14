@@ -15,3 +15,5 @@ You can run this script either in your favorite ide or in your python console.
 - Totally random
 
 Here you go ^^
+
+![image](https://user-images.githubusercontent.com/73313152/168448042-b188cd4f-dfa2-4a32-a727-71e454878304.png)
